@@ -1,5 +1,7 @@
 # STEPin-Embedded-casestudy
 
+[![Cpp-check](https://github.com/Sravan4a9/STEPin-Embedded-casestudy/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Sravan4a9/STEPin-Embedded-casestudy/actions/workflows/cppcheck.yml)
+
 ## Folder Structure
 Folder               | Description
 ---------------------| -----------------------------------------
