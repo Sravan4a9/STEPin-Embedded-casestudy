@@ -36,7 +36,7 @@ And the person sitting in the car can adjust the temperature according to their 
 1.It can be implemented by replacing heaterby air conditioners so that it will help in all countries
 
 ## Threats
-1. It is not suitable for higher temperature environments.
+1.It is not suitable for higher temperature environments.
 
 # 4W's and 1'H
 
@@ -44,16 +44,16 @@ And the person sitting in the car can adjust the temperature according to their 
 ## Who:
  * All students in school or college level
 
-# What:
+## What:
 * By using the calculator we can perform the basic calculations easily.
 
-# When:
+## When:
 * The calculator came to usage many years ago .Previously there were other ways to do it.
 
-# Where:
+## Where:
 * Schools,colleges and engineering students.
 
 ## 1'H
-# How:
+## How:
 * The usage of this project is very simple as it is an input output application. The user just needs to type in whatever he or she needs for example, if he or she needs to know the addition of two numbers,then the numbers and the symbol related to operation has to be given as input then output is shown
 
