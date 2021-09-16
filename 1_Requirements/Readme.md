@@ -57,3 +57,12 @@ And the person sitting in the car can adjust the temperature according to their 
 ## How:
 * By adjusting the temperature in the seat of the passenger.
 
+# HIGH LEVEL REQUIREMENTS: 
+
+ 1.displaying the temparature
+
+# LOW LEVEL REQUIREMENTS:
+ 
+ 1.finding the temparature
+ 2.sending the data to display
+
